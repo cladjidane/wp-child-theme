@@ -42,7 +42,7 @@ function wct_carousel( $atts ) {
 
     <ul class="slides-container" id="slides-container">
       <?php foreach ($images as $key => $value) : ?>
-      <li class="slide"><?php echo $value ?></li>
+      <li class="slide"><img src="<?php echo $value ?>" /></li>
       <?php endforeach; ?>
     </ul>
 
