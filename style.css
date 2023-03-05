@@ -9,6 +9,16 @@
  * Text Domain:	 wp-child-theme
  */
 
+body {
+  background-image: linear-gradient(red, blue);
+}
+
+
+
+
+
+
+
 /* ----------------------------------------------------------------------------
  * Ajoutez vos rêgles CSS ci-dessous
  * ------------------------------------------------------------------------- */
